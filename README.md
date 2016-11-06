@@ -17,10 +17,10 @@ Run the command jupyter notebook ipython_notebook_tutorial.ipynb in your termina
 The notebook should open in your default web browser.
 
 #References:
-http://seaborn.pydata.org/
-http://stackoverflow.com/questions/22470690/get-list-of-pandas-dataframe-columns-based-on-data-type
-http://pandas.pydata.org/pandas-docs/version/0.15.2/tutorials.html
-http://matplotlib.org/
-Video lectures of the course (Intro to Data Analysis)
-Kaggle titanic competition page (https://www.kaggle.com/c/titanic)
-http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
+* http://seaborn.pydata.org/
+* http://stackoverflow.com/questions/22470690/get-list-of-pandas-dataframe-columns-based-on-data-type
+* http://pandas.pydata.org/pandas-docs/version/0.15.2/tutorials.html
+* http://matplotlib.org/
+* Video lectures of the course (Intro to Data Analysis)
+* Kaggle titanic competition page (https://www.kaggle.com/c/titanic)
+* http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
