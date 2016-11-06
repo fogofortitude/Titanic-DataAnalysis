@@ -3,6 +3,9 @@ Udacity Stage 4 - Project
 
 This project resolves some questions about the titanic incident using a sample dataset taken from Kaggle provided by Udacity's Intro to Programming Nanodegree - Data Analysis Elective - Stage 4 Project#1.
 
+Please feel free to review the Data Analysis via either the HTML file of the IPython Notebook file. 
+Instruction on how to run the IPython Notebook file can be found below. 
+
 
 #To install Anaconda:
 Navigate to http://continuum.io/downloads in your browser.
