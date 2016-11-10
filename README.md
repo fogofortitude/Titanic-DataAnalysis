@@ -20,7 +20,11 @@ The notebook should open in your default web browser.
 * http://seaborn.pydata.org/
 * http://stackoverflow.com/questions/22470690/get-list-of-pandas-dataframe-columns-based-on-data-type
 * http://pandas.pydata.org/pandas-docs/version/0.15.2/tutorials.html
+* Used for ideas on how to structure analysis http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
 * http://matplotlib.org/
 * Video lectures of the course (Intro to Data Analysis)
 * Kaggle titanic competition page (https://www.kaggle.com/c/titanic)
-* http://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
+* Use of Seaborn Factorplot http://seaborn.pydata.org/generated/seaborn.factorplot.html?highlight=factorplot
+* Use of Seaborn Barplot http://seaborn.pydata.org/generated/seaborn.barplot.html?highlight=barplot#seaborn.barplot
+* Use of Seaborn Jointplot http://seaborn.pydata.org/generated/seaborn.jointplot.html?highlight=jointplot#seaborn.jointplot
+* Seaborn Colour Palettes http://seaborn.pydata.org/tutorial/color_palettes.html?highlight=color%20palette
